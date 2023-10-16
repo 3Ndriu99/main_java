@@ -5,7 +5,9 @@ public class Main
          int n2 = 3;
          int res = n1 + n2;
 
-         System.out.println(res);
+         System.out.println("i numeri " + n1 + " + " + n2 + " se sommati stampano il numero: " + res );
+         System.out.println("Ciao");
+
 	}
 
 }
